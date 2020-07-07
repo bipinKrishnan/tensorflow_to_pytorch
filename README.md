@@ -7,3 +7,8 @@ This repo contans the code implementation of the tensorflow tutorials converted 
 2. [CNN_custom_dataset](https://github.com/bipinKrishnan/tensorflow_to_pytorch/blob/master/CNN_custom_dataset.ipynb) - A simple CNN architecture trained with pytorch on a dataset downloaded from a url.
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/tensorflow_to_pytorch/blob/master/CNN_custom_dataset.ipynb)
+   
+3. [CNN_pretrained](https://github.com/bipinKrishnan/tensorflow_to_pytorch/blob/master/CNN_pretrained.ipynb) - Loading a pretrained model from pytorch and predicting from a random image from the internet or an image from local storage.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/tensorflow_to_pytorch/blob/master/CNN_pretrained.ipynb)
+    
