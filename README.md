@@ -14,3 +14,7 @@ This repo contans the code implementation of the tensorflow tutorials converted 
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/tensorflow_to_pytorch/blob/master/CNN_pretrained.ipynb)
     
+4. [data_augmentation](https://github.com/bipinKrishnan/tensorflow_to_pytorch/blob/master/data_augmentation.ipynb) - Applying different types of augmentations to the image data to increase model model performance.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/tensorflow_to_pytorch/blob/master/data_augmentation.ipynb)
+    
