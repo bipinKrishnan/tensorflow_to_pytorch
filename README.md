@@ -1,5 +1,4 @@
 # Tensorflow to Pytorch
-   ![](images/pytorch_tf.png | width=50)
    
 This repo contans the code implementation of the tensorflow tutorials converted to pytorch code
 
